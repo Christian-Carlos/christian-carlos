@@ -1,31 +1,26 @@
-# 👨‍💻 Christian Carlos
+# Christian Carlos
 
-## 🚀 Desenvolvedor e Analista de Sistemas
+### Desenvolvedor e Analista de Sistemas
 
-Atuo no desenvolvimento de soluções personalizadas utilizando **Google Apps Script**, **Google Sheets** e **aplicações web**, com foco em automação, performance e segurança.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-- Google Apps Script
-- JavaScript
-- HTML5 e CSS3
-- Google Sheets
-- Integrações com APIs
-- Automação de processos
+Atuo no desenvolvimento de soluções personalizadas utilizando Google Apps Script, Google Sheets e aplicações web, com foco em automação de processos, performance e segurança.
 
 ---
 
-## 💡 Especialidades
-- Sistemas de votação com validação e antifraude  
-- Painéis administrativos e operacionais  
+### Tecnologias
+Google Apps Script • JavaScript • HTML • CSS • Google Sheets • Integração com APIs
+
+---
+
+### Experiência e Atuação
+- Desenvolvimento de sistemas de votação com validação e controle antifraude  
+- Criação de painéis administrativos e operacionais  
 - Plataformas de cadastro e gestão de dados  
 - Automação de processos com Google Workspace  
-- Interfaces web responsivas integradas ao backend  
+- Desenvolvimento de interfaces web responsivas integradas ao backend  
 
 ---
 
-## 📌 Projetos em Destaque
+### Projetos
 - Sistema de votação com validação por CPF e e-mail  
 - Plataforma de cadastro de currículos com autenticação  
 - Painel de controle de frequência integrado ao AppSheet  
@@ -33,10 +28,10 @@ Atuo no desenvolvimento de soluções personalizadas utilizando **Google Apps Sc
 
 ---
 
-## ⚙️ Foco
-Construção de sistemas **robustos, estáveis e escaláveis**, com atenção à experiência do usuário e integridade dos dados.
+### Foco
+Desenvolvimento de sistemas robustos, estáveis e eficientes, priorizando integridade dos dados e experiência do usuário.
 
 ---
 
-## 📫 Contato
-📧 christiancarlosti@gmail.com
+### Contato
+Email: christiancarlosti@gmail.com
