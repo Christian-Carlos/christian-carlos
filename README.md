@@ -2,6 +2,8 @@
 
 ### Desenvolvedor e Analista de Sistemas
 
+Soluções completas envolvendo coleta, validação, processamento e visualização de dados em ambientes reais.
+
 Atuo no desenvolvimento de soluções personalizadas utilizando Google Apps Script, Google Sheets e aplicações web, com foco em automação de processos, performance e segurança.
 
 ---
